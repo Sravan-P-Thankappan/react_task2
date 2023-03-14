@@ -1,0 +1,12 @@
+
+.list input{
+    width: 100%;
+    padding: 0.5rem;
+    cursor: pointer;
+    margin-bottom: 0.3rem;
+    margin-top: 0.3rem;
+}
+.list input:focus{
+    outline: none;
+    
+}

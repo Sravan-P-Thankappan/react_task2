@@ -1,0 +1,23 @@
+
+.form{
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;  
+    gap: 0.5rem;
+    font-size: small;
+   
+    color: white
+    
+}
+
+.form input{
+    padding: 2px;
+}
+.form input:focus{
+    outline: none;
+}
+
+.submitButton{
+    width: 100%;
+}
+
